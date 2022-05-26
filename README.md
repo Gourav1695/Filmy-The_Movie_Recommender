@@ -43,6 +43,8 @@ Hey There! If the movie that you are looking for is not auto-suggested. Just typ
 
   
 <!-- More about Cosine Similarity : [Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/) -->
+## search bar
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot1.png)
 
 ### Sources of the datasets 
 
