@@ -43,8 +43,28 @@ Hey There! If the movie that you are looking for is not auto-suggested. Just typ
 
   
 <!-- More about Cosine Similarity : [Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/) -->
-## search bar
+## Landing Page
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/landing_page.gif)
+## Search Bar
 ![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot1.png)
+## Search Result
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot2.png)
+
+## Top Cast
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot3.png)
+## Cast and Crew
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot4.png)
+## Details of Cast
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot5.png)
+## User Review
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot6.png)
+## Recommended Movies
+
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot7.png)
+## Recommended Movies Continue..
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot8.png)
+## Recommended Movies Continue..
+![Uzoma Medium Gif](https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/Screenshot9.png)
 
 ### Sources of the datasets 
 
