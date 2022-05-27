@@ -30,7 +30,7 @@
 4. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 5. Hurray! That's it.
 
-## Architecture
+## Architecture :
 
 ![Recommendation App](https://user-images.githubusercontent.com/36665975/168742738-5435cf76-1a42-4d87-94b4-999e5bfc48d3.png)
 
@@ -48,7 +48,7 @@ I have incorporated machine learning models like bag of words, tf - idf vectoriz
    
    It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
    
-   ## Features
+   ## Features :
    
    - The landing page is consists of a search bar where we can search any movie name it provides auto-complete feature and also provide some suggestions of movie name    whatever you type in the search bar .
 - After writing any movie name click on the Enter button below of search bar.
