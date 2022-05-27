@@ -21,6 +21,14 @@
 
 - Hey There! If the movie that you are looking for is not auto-suggested. Just type the movie name in the search barand click on "Enter". You will be good to go eventhough if you made some typo errors.
 
+<br><br>
+
+
+
+> Take a look at the presentation [Here](https://drive.google.com/file/d/1iRYu371qu8338wkqMpL65NdTyt4VCVAL/view?usp=sharing
+)<br>
+ > My [Software write up during the Microsoft Engage Program](https://drive.google.com/file/d/11sCm9MFrsnFHygHmQC7XK-LU7sgBU44D/view?usp=sharing)
+
 
 ## How to run the project?
 
