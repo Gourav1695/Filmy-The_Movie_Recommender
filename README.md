@@ -30,6 +30,10 @@
  > My [Software write up during the Microsoft Engage Program](https://drive.google.com/file/d/11sCm9MFrsnFHygHmQC7XK-LU7sgBU44D/view?usp=sharing)
 
 
+## Demo Video :
+
+<a href="https://youtu.be/dgjVmIz1c1c"> <img src="https://github.com/Gourav1695/Filmy-The_Movie_Recommender/blob/main/screenshot/videodemo.jpg" alt="Demo Video" height='500' width='900'/> </a>
+
 ## How to run the project?
 
 1. Clone or download this repository to your local machine.
